@@ -1,0 +1,6 @@
+.banner{
+	background-image: url('images/my-cup-of-tea.jpg');
+	background-size: cover;
+	height: 70vh;
+	background-position: center;
+}
